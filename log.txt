@@ -1,0 +1,598 @@
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:40 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeQuery
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet getMetaData
+INFO: Meta data is successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSetMetaData getColumnCount
+INFO: number of columns returned successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeQuery
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet getMetaData
+INFO: Meta data is successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSetMetaData getColumnCount
+INFO: number of columns returned successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet previous
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet previous
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet previous
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet getObject
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeQuery
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet getMetaData
+INFO: Meta data is successfully returned!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSetMetaData getColumnCount
+INFO: number of columns returned successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:41 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeQuery
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet next
+INFO: successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet absolute
+INFO: current row is successfully updated!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet getMetaData
+INFO: Meta data is successfully returned!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLResultSetMetaData getColumnCount
+INFO: number of columns returned successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:42 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver acceptsURL
+INFO: Url accepted
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLDriver connect
+INFO: Connection returned successfully
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection createStatement
+INFO: Statement created successfully!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement execute
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement executeUpdate
+INFO: Query is successfully executed!
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLStatement close
+INFO: statement is closed successfully
+Dec 05, 2019 4:35:43 PM eg.edu.alexu.csd.oop.jdb.classes.SQLConnection close
+INFO: Connection is closed successfully!

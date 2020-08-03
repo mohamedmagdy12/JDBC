@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.SQLConnection" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/SQLConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1114" width="341" x="1216" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.SQLDriver" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/SQLDriver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="331" x="1597" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.main" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="194" x="363" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="eg.edu.alexu.csd.oop.jdb.Statement" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/Statement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="208" x="597" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="eg.edu.alexu.csd.oop.jdb.Driver" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/Driver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="331" x="845" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.SQLStatement" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/SQLStatement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1006" width="244" x="1968" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.SQLResultSetMetaData" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/SQLResultSetMetaData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="574" width="266" x="2252" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="eg.edu.alexu.csd.oop.jdb.Resultset" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/Resultset.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="448" width="225" x="2950" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="9" language="java" name="eg.edu.alexu.csd.oop.jdb.ResultSetMetaData" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/ResultSetMetaData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="182" x="3215" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.SQLResultSet" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/SQLResultSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3634" width="352" x="2558" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="eg.edu.alexu.csd.oop.jdb.classes.Log" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/classes/Log.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="194" x="1968" y="2063"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="eg.edu.alexu.csd.oop.jdb.Connection" project="JDBMS" 
+    file="/JDBMS/src/eg/edu/alexu/csd/oop/jdb/Connection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="194" x="3437" y="-1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="13">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="14" name="log"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="16">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="17" name="log"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="20" name="log"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="23" name="log"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="26" name="log"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
