@@ -4,4 +4,4 @@ queries and conntected with JDBC.
 # dbmsExutable.jar
 having the classes and intefaces of DBMS which is used to access the database with JDBC.
 # Attached with the code :
-A pdf showing the uml of the project and sample runs.
+A pdf showing the uml of the project and sample runs (JDBC API.pdf).
